@@ -2,4 +2,4 @@ This is a simple script for performing data cleaning and normalisation on Singap
 
 The reasoning for the various cleaning and normalisation steps is provided in comments in the script. The latest dataset can be downloaded from [here](https://data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view). The cleaned data is saved as `ges.csv` and can be fed into other tools such as Excel or Tableau for visualisation and exploration, as shown below:
 
-
+![Salary Trends](https://github.com/user-attachments/assets/3a3a4827-f9b3-4eed-9264-422595d57189)
